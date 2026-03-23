@@ -3,7 +3,9 @@
 ##  Project Overview
 This is a Python program that calculates a student's grade based on marks and provides encouraging feedback.
 
-##  Features
+---
+
+## Features
 - Takes student name and marks as input
 - Validates marks (0–100 only)
 - Uses grading system:
@@ -15,6 +17,8 @@ This is a Python program that calculates a student's grade based on marks and pr
 - Displays motivational messages
 - Handles invalid inputs using loops
 
+---
+
 ##  Technologies Used
 - Python
 - If-elif-else statements
@@ -22,7 +26,11 @@ This is a Python program that calculates a student's grade based on marks and pr
 - While loop
 - Exception handling
 
+---
+
 ##  How to Run
-1. Install Python
-2. Download the project
+1. Install Python  
+2. Download the project  
 3. Run the file:
+```bash
+python grade_calculator.py
